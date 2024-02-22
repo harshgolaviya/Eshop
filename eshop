@@ -1,0 +1,8 @@
+step 1:- database design
+
+    create database eshop and create collections  Products,Orders,Category,Users,Orderitems.
+
+step 2:- master ready
+    
+
+step 3:- insert and schema
