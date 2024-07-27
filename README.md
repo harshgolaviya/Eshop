@@ -28,7 +28,6 @@ The E-Commerce Project is a web application designed for managing an online stor
 
 ## Prerequisites
 
-Ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (for running the application)
 - [MongoDB Compass](https://www.mongodb.com/products/compass) (for database management)
 
@@ -62,4 +61,5 @@ Ensure you have the following installed:
 ---
 
 Thank you for using the E-Commerce Project!
+
 ```
