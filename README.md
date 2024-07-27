@@ -62,4 +62,3 @@ The E-Commerce Project is a web application designed for managing an online stor
 
 Thank you for using the E-Commerce Project!
 
-```
