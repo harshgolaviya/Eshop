@@ -4,7 +4,9 @@
 
 ## Overview
 
-The E-Commerce Project is a web application designed for managing an online store. It includes functionalities for user management, product and category management, and order handling. The system supports role-based access with features for users and super-users.
+The E-Commerce Project is a web application designed for managing an online store. It includes functionalities for user
+management, product and category management, and order handling. The system supports role-based access with features
+for users and super-users.
 
 ## Features
 
